@@ -237,6 +237,19 @@ textarea.form-control {
 	background: #f5f5f5;
 }
 
+.pfblock-tri {
+    background-image: url(../images/tri-bac.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+	
+}
+
+.pfblock-tri-bo {
+    background: #232426;
+	
+}
+
 .pfblock-image {
 	padding: 0;
 }
@@ -273,6 +286,10 @@ textarea.form-control {
 
 .pfblock-title{
     font-weight: 800;
+}
+
+.pfblock-title-tri{
+    font-weight: 5000;
 }
 
 .pfblock-subtitle {
