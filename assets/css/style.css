@@ -252,6 +252,13 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-cfw {
+    background-image: url(../images/cf-w-b3.png);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
 .pfblock-tri-bo {
     background: #232426;
 	
