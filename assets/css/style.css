@@ -259,6 +259,21 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-swi {
+    background-image: url(../images/swift-bac.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-swi-bo {
+    background-image: url(../images/swi-bo.png);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+
 .pfblock-tri-bo {
     background: #232426;
 	
