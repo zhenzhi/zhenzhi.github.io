@@ -237,6 +237,10 @@ textarea.form-control {
 	background: #f5f5f5;
 }
 
+.pfblock-gray2 {
+	background: #dfdfdf;
+}
+
 .pfblock-tri {
     background-image: url(../images/tri-bac.jpg);
     background-size: 100% 100%;
@@ -280,8 +284,22 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-utio-bo {
+    background-image: url(../images/utio-bo.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
 .pfblock-pi {
     background-image: url(../images/pi-bac.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-utio {
+    background-image: url(../images/utio-bac.jpg);
     background-size: 100% 100%;
 	background-position: 0% 0%;
 	background-repeat: repeat-x;
