@@ -291,6 +291,20 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-cfie1-bo {
+    background-image: url(../images/cfie-bo1.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-cfie2-bo {
+    background-image: url(../images/cfie-bo2.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
 .pfblock-pi {
     background-image: url(../images/pi-bac.jpg);
     background-size: 100% 100%;
