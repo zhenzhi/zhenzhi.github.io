@@ -326,6 +326,21 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-nt {
+    background-image: url(../images/nt-bac.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-nt-bo {
+    background-image: url(../images/nt-bo.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+
 .pfblock-tri-bo {
     background: #232426;
 	
