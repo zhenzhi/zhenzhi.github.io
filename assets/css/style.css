@@ -279,6 +279,13 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-sm {
+    background-image: url(../images/sm-bac.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
 .pfblock-y {
     background-image: url(../images/y-bac.png);
     background-size: 100% 100%;
@@ -288,6 +295,13 @@ textarea.form-control {
 
 .pfblock-swi-bo {
     background-image: url(../images/swi-bo.png);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-sm-bo {
+    background-image: url(../images/sm-bo.jpg);
     background-size: 100% 100%;
 	background-position: 0% 0%;
 	background-repeat: repeat-x;
