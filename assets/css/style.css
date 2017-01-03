@@ -241,6 +241,15 @@ textarea.form-control {
 	background: #dfdfdf;
 }
 
+.pfblock-cs {
+    background-image: url(../images/cs-b.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+	
+}
+
+
 .pfblock-tri {
     background-image: url(../images/tri-bac.jpg);
     background-size: 100% 100%;
@@ -279,6 +288,13 @@ textarea.form-control {
 
 .pfblock-swi-bo {
     background-image: url(../images/swi-bo.png);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-cs-bo {
+    background-image: url(../images/cs-bo.jpg);
     background-size: 100% 100%;
 	background-position: 0% 0%;
 	background-repeat: repeat-x;
@@ -382,6 +398,10 @@ textarea.form-control {
 
 .pfblock-title{
     font-weight: 800;
+}
+
+.pfblock-title-s{
+    font-size: 22px
 }
 
 .pfblock-title-tri{
