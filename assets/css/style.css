@@ -233,6 +233,10 @@ textarea.form-control {
 	padding: 120px 0 100px;
 }
 
+.pfblock-d {
+	background: #121212;
+}
+
 .pfblock-gray {
 	background: #f5f5f5;
 }
@@ -249,6 +253,13 @@ textarea.form-control {
 	
 }
 
+.pfblock-fa {
+    background-image: url(../images/fa-bac.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+	
+}
 
 .pfblock-tri {
     background-image: url(../images/tri-bac.jpg);
@@ -295,6 +306,13 @@ textarea.form-control {
 
 .pfblock-swi-bo {
     background-image: url(../images/swi-bo.png);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-fa-bo {
+    background-image: url(../images/fa-bo.jpeg);
     background-size: 100% 100%;
 	background-position: 0% 0%;
 	background-repeat: repeat-x;
