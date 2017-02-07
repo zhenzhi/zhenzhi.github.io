@@ -245,6 +245,14 @@ textarea.form-control {
 	background: #dfdfdf;
 }
 
+.pfblock-dark {
+	background: #3B3F41;
+}
+
+.pfblock-dark2 {
+	background: #2D2E30;
+}
+
 .pfblock-cs {
     background-image: url(../images/cs-b.jpg);
     background-size: 100% 100%;
@@ -360,6 +368,13 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-young-bo {
+    background-image: url(../images/young-bo.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
 .pfblock-pi {
     background-image: url(../images/pi-bac.jpg);
     background-size: 100% 100%;
@@ -381,8 +396,22 @@ textarea.form-control {
 	background-repeat: repeat-x;
 }
 
+.pfblock-kg {
+    background-image: url(../images/kg-bc.jpeg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
 .pfblock-nt-bo {
     background-image: url(../images/nt-bo.jpg);
+    background-size: 100% 100%;
+	background-position: 0% 0%;
+	background-repeat: repeat-x;
+}
+
+.pfblock-kg-bo {
+    background-image: url(../images/kg-bo.jpeg);
     background-size: 100% 100%;
 	background-position: 0% 0%;
 	background-repeat: repeat-x;
