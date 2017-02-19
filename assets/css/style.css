@@ -253,6 +253,30 @@ textarea.form-control {
 	background: #2D2E30;
 }
 
+.pfblock-dark3 {
+	background: #434343;
+}
+
+.pfblock-sm1 {
+	background: #aecee8;
+}
+
+.pfblock-sm2 {
+	background: #f18892;
+}
+
+.pfblock-sm3 {
+	background: #a6e9c8;
+}
+
+.pfblock-sm4 {
+	background: #f8e88e;
+}
+
+.pfblock-sm5 {
+	background: #a39ff4;
+}
+
 .pfblock-cs {
     background-image: url(../images/cs-b.jpg);
     background-size: 100% 100%;
@@ -460,6 +484,7 @@ textarea.form-control {
 .pfblock-title{
     font-weight: 800;
 }
+
 
 .pfblock-title-s{
     font-size: 22px
