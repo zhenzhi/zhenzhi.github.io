@@ -279,54 +279,86 @@ textarea.form-control {
 
 .pfblock-cs {
     background-image: url(../images/cs-b.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
-	
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
 }
 
 .pfblock-fa {
     background-image: url(../images/fa-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
-	
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
 }
 
 .pfblock-tri {
     background-image: url(../images/tri-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
 	
 }
 
 .pfblock-cfm {
     background-image: url(../images/cf-m-b.png);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
 }
 
 .pfblock-cfw {
     background-image: url(../images/cf-w-b3.png);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
 }
 
 .pfblock-swi {
     background-image: url(../images/swift-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+     background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
 }
 
 .pfblock-sm {
     background-image: url(../images/sm-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-y {
@@ -338,109 +370,177 @@ textarea.form-control {
 
 .pfblock-swi-bo {
     background-image: url(../images/swi-bo.png);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-fa-bo {
-    background-image: url(../images/fa-bo.jpeg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-image: url(../images/fa-bo.jpg);
+      background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-sm-bo {
     background-image: url(../images/sm-bo.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-cs-bo {
     background-image: url(../images/cs-bo.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-pi-bo {
     background-image: url(../images/pi-bo.jpg);
-    background-size: 100% 100%;
+        background-size: 100% 100%;
 	background-position: 0% 0%;
 	background-repeat: repeat-x;
 }
 
 .pfblock-utio-bo {
     background-image: url(../images/utio-bo.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-cfie1-bo {
     background-image: url(../images/cfie-bo1.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-cfie2-bo {
     background-image: url(../images/cfie-bo2.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-young-bo {
     background-image: url(../images/young-bo.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-pi {
     background-image: url(../images/pi-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-utio {
     background-image: url(../images/utio-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-nt {
     background-image: url(../images/nt-bac.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-kg {
     background-image: url(../images/kg-bc.jpeg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-nt-bo {
     background-image: url(../images/nt-bo.jpg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-kg-bo {
     background-image: url(../images/kg-bo.jpeg);
-    background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
+
+.pfblock-tri-bo2 {
+    background-image: url(../images/tri-bo2.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
 
 .pfblock-tri-bo {
     background: #232426;
