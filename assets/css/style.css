@@ -245,6 +245,10 @@ textarea.form-control {
 	background: #dfdfdf;
 }
 
+.pfblock-blue {
+	background: #eef2f6;
+}
+
 .pfblock-dark {
 	background: #3B3F41;
 }
@@ -412,6 +416,17 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-hub-bo {
+    background-image: url(../images/hub-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-pi-bo {
     background-image: url(../images/pi-bo.jpg);
         background-size: 100% 100%;
@@ -487,6 +502,18 @@ background-position: center;
 
 .pfblock-nt {
     background-image: url(../images/nt-bac.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+
+.pfblock-hub {
+    background-image: url(../images/hub-bac.jpg);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
