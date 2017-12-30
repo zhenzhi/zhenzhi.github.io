@@ -25,7 +25,7 @@ a {
 
 a:hover {
 	text-decoration: none;
-	color: #999;
+	color: deepskyblue;
 }
 
 /* ---------------------------------------------- /*
@@ -249,6 +249,10 @@ textarea.form-control {
 	background: #f2f2f2;
 }
 
+.pfblock-black {
+	background: #000000;
+}
+
 .pfblock-blue {
 	background: #eef2f6;
 }
@@ -263,6 +267,10 @@ textarea.form-control {
 
 .pfblock-dark3 {
 	background: #434343;
+}
+
+.pfblock-invisiondark {
+	background: #1B1D23;
 }
 
 .pfblock-sm1 {
@@ -322,6 +330,19 @@ textarea.form-control {
 	
 }
 
+.pfblock-ana {
+    background-image: url(../images/ana-bac.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+	
+}
+
 .pfblock-cfm {
     background-image: url(../images/cf-m-b.png);
         background-position: center;
@@ -348,6 +369,42 @@ textarea.form-control {
 
 .pfblock-swi {
     background-image: url(../images/swift-bac.jpg);
+     background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
+.pfblock-gwf {
+    background-image: url(../images/gwf-bac.jpg);
+     background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
+.pfblock-hcc {
+    background-image: url(../images/hcc-bac.jpg);
+     background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
+.pfblock-ais {
+    background-image: url(../images/ais-bac.jpg);
      background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -431,15 +488,63 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-hcc-bo {
+    background-image: url(../images/hcc-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-ana-bo {
+    background-image: url(../images/ana-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-pi-bo {
     background-image: url(../images/pi-bo.jpg);
-        background-size: 100% 100%;
-	background-position: 0% 0%;
-	background-repeat: repeat-x;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
 }
 
 .pfblock-utio-bo {
     background-image: url(../images/utio-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-gwf-bo {
+    background-image: url(../images/gwf-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-ais-bo {
+    background-image: url(../images/ais-bo.jpg);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -629,6 +734,13 @@ background-position: center;
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-style: normal;
 	font-size: 18px;
+}
+
+.pfblock-subtitle-l {
+	font-family: Raleway, "Times New Roman", Times, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+    text-align: left;
 }
 
 .pfblock-line {
