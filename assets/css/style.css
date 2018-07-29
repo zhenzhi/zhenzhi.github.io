@@ -293,6 +293,10 @@ textarea.form-control {
 	background: #a39ff4;
 }
 
+.pfblock-hubb {
+	background: #403f47;
+}
+
 .pfblock-cs {
     background-image: url(../images/cs-b.jpg);
     background-position: center;
@@ -364,6 +368,12 @@ textarea.form-control {
         -moz-background-size: cover;
         -o-background-size: cover;
         height:100%;
+
+}
+
+.pfblock-cfd {
+   	background: #2c2c2c;
+
 
 }
 
