@@ -269,6 +269,10 @@ textarea.form-control {
 	background: #434343;
 }
 
+.pfblock-hubb {
+	background: #403f47;
+}
+
 .pfblock-invisiondark {
 	background: #1B1D23;
 }
@@ -291,10 +295,6 @@ textarea.form-control {
 
 .pfblock-sm5 {
 	background: #a39ff4;
-}
-
-.pfblock-hubb {
-	background: #403f47;
 }
 
 .pfblock-cs {
