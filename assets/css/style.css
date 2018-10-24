@@ -309,6 +309,18 @@ textarea.form-control {
 
 }
 
+.pfblock-lidc {
+    background-image: url(../images/li/lidc-bc.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
 .pfblock-fa {
     background-image: url(../images/fa-bac.jpg);
     background-position: center;
@@ -478,6 +490,17 @@ background-position: center;
 
 .pfblock-cs-bo {
     background-image: url(../images/cs-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-lidc-bo {
+    background-image: url(../images/li/bo.jpg);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
