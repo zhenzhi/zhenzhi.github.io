@@ -12,7 +12,7 @@ var pass1 = prompt('Please Enter Password',' ');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "ux+") {
+if (pass1.toLowerCase() == "ats") {
 window.open('hub.html','_self');
 break;
 } 
