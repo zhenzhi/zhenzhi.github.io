@@ -561,7 +561,7 @@ background-position: center;
 }
 
 .pfblock-ipc-bo {
-    background-image: url(../images/ipc-bo.jpg);
+    background-image: url(../images/ipc/saku-bac.jpg);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -695,6 +695,17 @@ background-position: center;
 
 .pfblock-kg {
     background-image: url(../images/kg-bc.jpeg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-saku {
+    background-image: url(../images/ipc/saku.png);
     background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
