@@ -12,8 +12,8 @@ var pass1 = prompt('Please Enter Password',' ');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "ux+") {
-window.open('gwf.html','_self');
+if (pass1.toLowerCase() == "ats") {
+window.open('ipp.html','_self');
 break;
 } 
 testV+=1;

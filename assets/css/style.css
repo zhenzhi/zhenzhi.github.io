@@ -376,6 +376,19 @@ textarea.form-control {
 	
 }
 
+.pfblock-ipp {
+    background-image: url(../images/ipp/ipp-bac.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+	
+}
+
 .pfblock-cfm {
     background-image: url(../images/cf-m-b.png);
         background-position: center;
@@ -405,6 +418,8 @@ textarea.form-control {
 
 
 }
+
+
 
 .pfblock-swi {
     background-image: url(../images/swift-bac.jpg);
@@ -571,6 +586,39 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-ipp-bo {
+    background-image: url(../images/ipp/ipp-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-dcl {
+    background-image: url(../images/dcl/dcl-bac.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-dcl-bo {
+    background-image: url(../images/dcl/dcl-bac.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-pi-bo {
     background-image: url(../images/pi-bo.jpg);
         background-position: center;
@@ -715,6 +763,17 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-cact {
+    background-image: url(../images/cact.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-nt-bo {
     background-image: url(../images/nt-bo.jpg);
 background-position: center;
@@ -750,8 +809,30 @@ background-position: center;
 
 }
 
+.pfblock-dcl-bo {
+    background-image: url(../images/dcl/dcl-bo.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
 .pfblock-tri-bo {
     background: #232426;
+	
+}
+
+.pfblock-dcl-a {
+    background: #0F2027;
+	
+}
+
+.pfblock-dcl-b {
+    background: #2C5364;
 	
 }
 
