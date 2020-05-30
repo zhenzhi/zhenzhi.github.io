@@ -363,6 +363,19 @@ textarea.form-control {
 	
 }
 
+.pfblock-jbr {
+    background-image: url(../images/jbr/jbr-bac.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+	
+}
+
 .pfblock-ipc {
     background-image: url(../images/ipc-bac.jpg);
     background-position: center;
@@ -511,6 +524,17 @@ textarea.form-control {
 
 .pfblock-sm-bo {
     background-image: url(../images/sm-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-bo {
+    background-image: url(../images/jbr/jbr-bo.jpg);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -765,6 +789,83 @@ background-position: center;
 
 .pfblock-cact {
     background-image: url(../images/cact.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-1 {
+    background-image: url(../images/jbr/jpr-1.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-2 {
+    background-image: url(../images/jbr/jpr-2.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-3 {
+    background-image: url(../images/jbr/jpr-3.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-4 {
+    background-image: url(../images/jbr/jpr-4.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-5 {
+    background-image: url(../images/jbr/jpr-5.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-6 {
+    background-image: url(../images/jbr/jpr-6.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-jbr-m-7 {
+    background-image: url(../images/jbr/jpr-7.jpg);
     background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
