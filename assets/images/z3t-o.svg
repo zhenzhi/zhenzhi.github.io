@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1607px" height="1579px" viewBox="0 0 1607 1579" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="6.04149528%" cy="0%" fx="6.04149528%" fy="0%" r="3693.14592%" id="radialGradient-1">
+            <stop stop-color="#74DEEC" offset="0%"></stop>
+            <stop stop-color="#3EE3E1" offset="51.951715%"></stop>
+            <stop stop-color="#0184B4" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-3">
+            <g id="Group-4" transform="translate(0.000000, 534.000000)" fill="url(#radialGradient-1)">
+                <polygon id="Path" points="22.8880455 30.0626959 895.82118 30.0626959 895.82118 0.0626959248 22.8880455 0.0626959248"></polygon>
+                <polygon id="Path-Copy" points="6 1044.9373 889.244782 1044.9373 889.244782 1014.9373 6 1014.9373"></polygon>
+                <g id="Group-3" transform="translate(0.599620, 11.376176)">
+                    <polygon id="Path-2" points="729.185425 0.203400821 0.850109347 1006.18245 25.1498907 1023.77564 753.485206 17.7965992"></polygon>
+                    <polygon id="Path-2-Copy" points="800.927141 2.32209501 72.5918259 1008.30114 96.8916072 1025.89434 825.226923 19.9152934"></polygon>
+                    <polygon id="Path-2-Copy-2" points="873.432067 2.32209501 145.096752 1008.30114 169.396533 1025.89434 897.731849 19.9152934"></polygon>
+                </g>
+            </g>
+            <g id="Group-2" transform="translate(948.000000, 0.000000)" fill="#74DEEC">
+                <polygon id="Path-3" points="50.2194079 21.1997194 608.8 21.1997194 608.8 0.199719364 50.2194079 0.199719364"></polygon>
+                <polygon id="Path-4" points="463.428935 1.3660253 242.09041 115.420282 251.70959 134.08767 473.048115 20.0334134"></polygon>
+                <polygon id="Path-4-Copy" points="532.028935 1.3660253 310.69041 115.420282 320.30959 134.08767 541.648115 20.0334134"></polygon>
+                <polygon id="Path-4-Copy-2" points="598.528935 1.3660253 377.19041 115.420282 386.80959 134.08767 608.148115 20.0334134"></polygon>
+                <path d="M0.5,439.627689 C0.5,621.259794 147.79926,768.5 329.5,768.5 C511.20074,768.5 658.5,621.259794 658.5,439.627689 C658.5,257.995585 511.20074,110.755379 329.5,110.755379 C234.547269,110.755379 146.096778,151.199792 84.0665123,220.611201 L99.7249487,234.604534 C157.811738,169.605845 240.589361,131.755379 329.5,131.755379 C499.604645,131.755379 637.5,269.59545 637.5,439.627689 C637.5,609.659929 499.604645,747.5 329.5,747.5 C159.395355,747.5 21.5,609.659929 21.5,439.627689 L0.5,439.627689 Z" id="Oval-2"></path>
+                <polygon id="Line" points="460.255025 171.985132 461.800099 173.529587 462.294975 173.034513 460.749901 171.490058"></polygon>
+                <g id="Group" transform="translate(466.700000, 161.839102)">
+                    <polygon id="Path-5" points="0 1.92745164e-14 5.08038056e-13 553.518385 21 553.518385 21 0"></polygon>
+                    <polygon id="Path-6" points="37.1 13.9013624 37.1 537.152526 58.1 537.152526 58.1 13.9013624"></polygon>
+                    <polygon id="Path-7" points="73.4329787 43.2598993 72.036009 508.663269 93.0359144 508.726303 94.4328841 43.3229332"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

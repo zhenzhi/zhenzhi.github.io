@@ -20,12 +20,23 @@ img {
 }
 
 a {
-	color: #77DFEC;
+	color: #000000;
 }
 
 a:hover {
-	text-decoration: none;
-	color: deepskyblue;
+	text-decoration: underline;
+    	color: #000000;
+
+}
+
+al {
+	color: #000000;
+    text-decoration: underline
+}
+
+al:hover {
+	text-decoration: underline;
+	color: #199191;
 }
 
 /* ---------------------------------------------- /*
@@ -1267,7 +1278,7 @@ background-position: center;
 .navbar-custom .navbar-nav > li.active a {
 	background: none;
 	outline: 0;
-	color: #77DFEC;
+	color: #0E8181;
 }
 
 .navbar-custom .navbar-brand {
@@ -1278,7 +1289,7 @@ background-position: center;
 
 .navbar-custom .dropdown-menu {
 	border: 0;
-	border-top: 2px solid #77DFEC
+	border-top: 2px solid #0E8181
 	border-radius: 0;
 }
 
@@ -1322,7 +1333,7 @@ background-position: center;
 .scroll-up a:hover,
 .scroll-up a:active {
 	background-color: rgba(235, 235, 235, .8);
-	color: #77DFEC
+	color: #0E8181
 }
 
 /* ---------------------------------------------- /*
@@ -1522,7 +1533,7 @@ background-position: center;
 /*---------------*/
 
 figure.effect-bubba {
-	background: #77dfec;
+	background: #00ffff;
 }
 
 figure.effect-bubba img {
@@ -1641,7 +1652,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtprogress {
 	position: absolute;
-	background: #77DFEC;
+	background: #0E8181;
 	height: 1px;
 	width: 0%;
 	top: 0;
