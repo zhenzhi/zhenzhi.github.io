@@ -413,6 +413,19 @@ textarea.form-control {
 	
 }
 
+.pfblock-fo {
+    background-image: url(../images/fo/fo-bac.png);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+	
+}
+
 .pfblock-cfm {
     background-image: url(../images/cf-m-b.png);
         background-position: center;
@@ -632,6 +645,17 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-fo-bo {
+    background-image: url(../images/fo/fo-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-dcl {
     background-image: url(../images/dcl/dcl-bac.jpg);
 background-position: center;
@@ -789,6 +813,17 @@ background-position: center;
 
 .pfblock-saku {
     background-image: url(../images/saku.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-fo-seg {
+    background-image: url(../images/fo/fo-seg.jpg);
     background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
