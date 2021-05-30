@@ -82,9 +82,18 @@
 <div class="col-sm-6" align="center">
     <font color="#38424D" size="3">Please enter the password :</font><br>
 <form  name="login" style="margin: 5px 0px 0px 0px;">
-<input class="form-style" type="password" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 200px;"><br>
-<input class="Button" type="Button" value="SUBMIT" onclick="javascript:TheLogin(this.form)">
+<input id="myInput" class="form-style" type="password" name="pass" size="17" onkeydown="if(event.keyCode==13) return false;" style="width: 200px;"><br>
+<input id="myBtn" class="Button" type="Button" value="SUBMIT" onclick="javascript:TheLogin(this.form)">
 </form>
+     <script>
+var input = document.getElementById("myInput");
+input.addEventListener("keyup", function(event) {
+  if (event.keyCode === 13) {
+   event.preventDefault();
+   document.getElementById("myBtn").click();
+  }
+});
+</script>
 <br>
     Email me <b><a href="mailto:zhenzhizhu@hotmail.com">zhenzhizhu@hotmail.com</a></b> to get access &#128522;. 
 <br><br><br><br> 

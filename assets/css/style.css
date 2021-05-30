@@ -284,6 +284,10 @@ textarea.form-control {
 	background: #565E67;
 }
 
+.pfblock-dark5 {
+	background: #000F46;
+}
+
 .pfblock-hubb {
 	background: #403f47;
 }
@@ -494,6 +498,30 @@ textarea.form-control {
 
 }
 
+.pfblock-cpbn1 {
+    background-image: url(../images/cp/cp-bn1.png);
+     background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
+.pfblock-cpbn2 {
+    background-image: url(../images/cp/cp-bn2.png);
+     background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
 .pfblock-ais {
     background-image: url(../images/ais-bac.jpg);
      background-position: center;
@@ -592,6 +620,17 @@ background-position: center;
 
 .pfblock-hub-bo {
     background-image: url(../images/hub-bo.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-cp-bo {
+    background-image: url(../images/cp/cp-bo.jpeg);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -791,6 +830,17 @@ background-position: center;
 
 .pfblock-hub {
     background-image: url(../images/hub-bac.jpg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-cp {
+    background-image: url(../images/cp/cp-bac.png);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
