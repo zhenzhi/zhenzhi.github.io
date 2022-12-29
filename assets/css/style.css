@@ -288,6 +288,10 @@ textarea.form-control {
 	background: #000F46;
 }
 
+.pfblock-dark6 {
+	background: #003087;
+}
+
 .pfblock-hubb {
 	background: #403f47;
 }
@@ -695,6 +699,17 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-nba-bo {
+    background-image: url(../images/nba/nba-bac-bo.jpeg);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-dcl {
     background-image: url(../images/dcl/dcl-bac.jpg);
 background-position: center;
@@ -783,6 +798,18 @@ background-position: center;
         height:100%;
 }
 
+
+.pfblock-ve-bo {
+    background-image: url(../images/epc/ve-bac-bo.jpeg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-young-bo {
     background-image: url(../images/young-bo.jpg);
     background-position: center;
@@ -841,6 +868,28 @@ background-position: center;
 
 .pfblock-cp {
     background-image: url(../images/cp/cp-bac.png);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-nba {
+    background-image: url(../images/nba/nba-bac.png);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
+.pfblock-epc {
+    background-image: url(../images/epc/epc-bac.png);
 background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
