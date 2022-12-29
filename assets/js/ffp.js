@@ -10,7 +10,7 @@
     
 function TheLogin() {
 
-var password = 'ats';
+var password = 'pab';
 
 if (this.document.login.pass.value == password) {
   top.location.href="cp.html";

@@ -13,7 +13,7 @@ function TheLogin() {
 var password = 'pab';
 
 if (this.document.login.pass.value == password) {
-  top.location.href="jbr.html";
+  top.location.href="nba.html";
 }
 else {
   window.alert("Incorrect password, please try again.");
