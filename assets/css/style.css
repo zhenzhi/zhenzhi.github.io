@@ -888,6 +888,17 @@ background-position: center;
         height:100%;
 }
 
+.pfblock-cxo {
+    background-image: url(../images/cxo/Paypal_Banner01.webp);
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+}
+
 .pfblock-epc {
     background-image: url(../images/epc/epc-bac.png);
 background-position: center;
@@ -1057,6 +1068,18 @@ background-position: center;
 
 .pfblock-dcl-bo {
     background-image: url(../images/dcl/dcl-bo.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
+.pfblock-cxo-bo {
+    background-image: url(../images/cxo/l-pexels-nataliya-vaitkevich-621447.jpg);
     background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
