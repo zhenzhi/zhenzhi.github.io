@@ -408,6 +408,19 @@ textarea.form-control {
 	
 }
 
+.pfblock-fl2 {
+    background-image: url(../images/cxo/fl-bac2.png);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+	
+}
+
 .pfblock-ipc {
     background-image: url(../images/ipc-bac.jpg);
     background-position: center;
@@ -1093,6 +1106,18 @@ background-position: center;
 
 .pfblock-cxo-bo {
     background-image: url(../images/cxo/l-pexels-nataliya-vaitkevich-621447.jpg);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+}
+
+.pfblock-cxo-bo2 {
+    background-image: url(../images/cxo/fl-bo.jpg);
     background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
